@@ -1,0 +1,6 @@
+There are two ipynb noteooks:
+1. With Data-Analysis - EDA.ipynb
+2. With pre-processing and next. - after EDA.ipynb
+
+After running first notebook, u get plots to show data in different forms.
+After running second notebook, at end u get submission.csv file which have the output data, which needs to be submitted.
